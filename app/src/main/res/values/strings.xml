@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Unit 9 Participation-menus</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="dorothy_vaughan">Dorothy Vaughan</string>
+    <string name="katherine_g_johnson">Katherine G. Johnson</string>
+    <string name="mary_jackson">Mary Jackson</string>
+    <string name="my_study_group">My Study Group</string>
+    <string name="title_activity_settings">"Settings "</string>
+</resources>
